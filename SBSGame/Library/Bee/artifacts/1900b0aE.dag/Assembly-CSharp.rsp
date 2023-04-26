@@ -347,6 +347,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Animation/Script/AnimatorManager.cs"
 "Assets/Animation/Script/Parallax.cs"
+"Assets/Instantiate & Destroy/Script/Create.cs"
+"Assets/Instantiate & Destroy/Script/Delete.cs"
 "Assets/Tutorial Script/A.cs"
 "Assets/Tutorial Script/Control.cs"
 -langversion:9.0
