@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class Delete : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    // 1 ~ 5 사이의 값이 반환
+    
     void Start()
     {
-        
+        int random = Random.Range(1, 5);
+        Destroy(gameObject, random);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
