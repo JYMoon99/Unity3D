@@ -353,6 +353,8 @@
 "Assets/Animator Controller/Script/AnimatorManager.cs"
 "Assets/Instantiate & Destroy/Script/Create.cs"
 "Assets/Instantiate & Destroy/Script/Delete.cs"
+"Assets/Light/Script/Movement.cs"
+"Assets/Light/Script/Patrol.cs"
 "Assets/NavMesh Agent/Script/Controller.cs"
 "Assets/Samples/Cinemachine/2.8.9/Cinemachine Example Scenes/Scenes/2D/LoseSightWhenTargetsFallsOffThePlatform.cs"
 "Assets/Samples/Cinemachine/2.8.9/Cinemachine Example Scenes/Scenes/2D/MouseScrollZoom2D.cs"
